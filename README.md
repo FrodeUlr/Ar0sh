@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Ar0sh
 - 🌱 I’m currently learning:
+   - C++
    - C#
    - Python
    - SQL
@@ -15,12 +16,15 @@
       - Apache2 hosting .net core site
       - Grafana
       - InfluxDB
+      - Secondary PiHole
       - VMs, Docker, and more
    - Windows Server 2019, running:
       - Domain
       - DNS
       - Active Directory
       - My own OpenHAB MSSQL datalogger
+   - Raspberry Pi Zero W, running:
+      - Primary PiHole
 
    
 
