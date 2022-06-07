@@ -5,7 +5,7 @@
    - Python
    - SQL
    - RESTapi
-   - .net core
+   - .Net Core
    - HTML/CSS/JS
    - MQTT
 
@@ -17,7 +17,7 @@
    - Debian 11, running:
       - OpenHAB home automation
       - MSSQL and MySQL
-      - Apache2 hosting .net core site
+      - Apache2
       - Grafana
       - InfluxDB
       - Secondary PiHole
