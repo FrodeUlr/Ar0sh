@@ -11,7 +11,7 @@
 
 - 🏠 At home I'm using:
    - Windows 11 Pro Gaming/Workstation
-      - Visual Studio 2022 Enterprise
+      - Visual Studio 2022
       - Visual Studio Code
       - PyCharm
    - Debian 11, running:
