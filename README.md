@@ -17,7 +17,7 @@
    - Debian 11, running:
       - OpenHAB home automation
       - MSSQL and MySQL
-      - Apache2
+      - Webserver
       - Grafana
       - InfluxDB
       - Secondary PiHole
