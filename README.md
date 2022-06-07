@@ -12,7 +12,8 @@
 - 🏠 At home I'm using:
    - Windows 11 Pro Gaming/Workstation
       - Visual Studio 2022 Ent
-      - Visual Studio Code 
+      - Visual Studio Code
+      - PyCharm
    - Debian 11, running:
       - OpenHAB home automation
       - MSSQL and MySQL
