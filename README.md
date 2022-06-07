@@ -10,6 +10,9 @@
    - MQTT
 
 - 🏠 At home I'm using:
+   - Windows 11 Pro Gaming/Workstation
+      - Visual Studio 2022 Ent
+      - Visual Studio Code 
    - Debian 11, running:
       - OpenHAB home automation
       - MSSQL and MySQL
