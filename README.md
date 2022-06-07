@@ -26,7 +26,7 @@
       - Domain
       - DNS
       - Active Directory
-      - My own OpenHAB MSSQL datalogger
+      - My own <a href="https://github.com/Ar0sh/OHLogger">OpenHAB MSSQL datalogger</a>
    - Raspberry Pi Zero W, running:
       - Primary PiHole
 
