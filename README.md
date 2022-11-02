@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Ar0sh
 - 🌱 I’m currently learning:
    - C++
+   - Rust
    - C#
    - Python
    - SQL
